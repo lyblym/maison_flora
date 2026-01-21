@@ -120,7 +120,7 @@ nav .text h1:hover {
 
 
 .home {
-    background-image: url(/assets/bg_good.png);
+    background-image: url(../assets/bg_good.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -661,4 +661,5 @@ nav .text h1:hover {
     }
     
 }
+
 
