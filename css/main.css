@@ -566,7 +566,7 @@ nav .text h1:hover {
 
     .home .button a {
         width: 180px;
-        margin: 100px 0 0 0px !important;
+        margin-top: 100px !important;
     }
 
     .icons .box-container {
@@ -661,6 +661,7 @@ nav .text h1:hover {
     }
     
 }
+
 
 
 
