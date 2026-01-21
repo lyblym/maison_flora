@@ -365,7 +365,7 @@ nav .text h1:hover {
 
     .home .button {
         width: 180px;
-        margin: 140px 0 0 0px;
+        margin: 140px 0 0 0px !important;
     }
 
     .about-us .main-text {
@@ -416,4 +416,5 @@ nav .text h1:hover {
     }
 
 }
+
 
