@@ -564,7 +564,7 @@ nav .text h1:hover {
         margin-top: 50px !important;
     }
 
-    .home .button {
+    .home .button a {
         width: 180px;
         margin: 100px 0 0 0px !important;
     }
