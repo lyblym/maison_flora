@@ -370,7 +370,7 @@ nav .text h1:hover {
 
     .home .button a {
         width: 180px;
-        margin-top: 100px !important;
+        margin: 100px 0 0 40px !important
     }
 
     .novinki .box-container {
@@ -408,6 +408,7 @@ nav .text h1:hover {
     }
 
 }
+
 
 
 
